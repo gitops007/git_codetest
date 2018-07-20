@@ -1,3 +1,3 @@
 def index(request):
-    print('xiaohu is haha')
+    pass #bug push
     return render(request, 'index.html')
